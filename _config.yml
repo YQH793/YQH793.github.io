@@ -16,7 +16,7 @@ timezone:
 
 title: "YQH's Blog" # the main title
 
-tagline:记录学习与生活 # it will display as the subtitle
+tagline: "记录学习与生活" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
  这是我的个人博客。
